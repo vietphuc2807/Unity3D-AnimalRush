@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df51efeb33dd8604fadf39ca48923501, type: 3}
+  m_Name: CameraSettings
+  m_EditorClassIdentifier: 
+  followHeight: 5
+  mouseSensitivity: 800
+  smoothTime: 0.05
+  minVerticalAngle: -40
+  maxVerticalAngle: 70
+  rotationSmooth: 5
+  zoomSpeed: 6
+  minZoom: 0.1
+  maxZoom: 25
+  defaultZoom: 18
